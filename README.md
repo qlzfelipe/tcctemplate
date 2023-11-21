@@ -53,7 +53,7 @@ The easiest way to install is directly from this repository with the
 
 ```r
 ## install.packages("remotes")
-remotes::install_github("fernandomayer/tcctemplate")
+remotes::install_github("qlzfelipe/tcctemplate")
 ```
 
 ## Authors
